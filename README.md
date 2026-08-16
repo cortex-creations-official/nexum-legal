@@ -8,4 +8,5 @@ Welcome to **Nexum** — a modern, fast, and secure real-time messaging applicat
 * [Terms of Service](terms)
 
 For support, contact: cortexcreations.official@gmail.com
+
 For collaborating, contact: vspst246@gmail.com
