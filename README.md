@@ -1,4 +1,4 @@
-# <img src="logo.png" width="36" height="36" style="vertical-align: middle; margin-right: 8px;"> Nexum
+# <img src="logo.png" width="64" height="64" style="vertical-align: middle; margin-right: 8px;"> 
 
 # Nexum 
 by Cortex Creations 
